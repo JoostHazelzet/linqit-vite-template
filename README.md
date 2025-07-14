@@ -23,6 +23,9 @@ This template provides a modern React setup with Vite, Material-UI (MUI), and ES
 ### Method 1: Using this template on GitHub
 
 1. Click "Use this template" button on GitHub
+
+   ![Use this template button](public/use_this_template.png)
+
 2. Create a new repository from this template
 3. Clone your new repository:
    ```bash
